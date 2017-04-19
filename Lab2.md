@@ -210,6 +210,6 @@
 
 > mean(z)
 [1] NA
-> mean(!nas)
-[1] 0.625
+ mean(z, na.rm = TRUE)
+[1] 3
 ```
