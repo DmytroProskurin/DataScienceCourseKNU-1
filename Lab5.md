@@ -70,5 +70,8 @@ complete("specdata", 1)
 
 > cr <- corr(d, 150)
 > head(cr); summary(cr)
-
+> head(cr); summary(cr)
+[1] -0.22255256 -0.01895754 -0.14051254 -0.04389737 -0.06815956 -0.12350667
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+-1.00000 -0.05282  0.10720  0.13680  0.27830  1.00000 
 ```
